@@ -212,33 +212,38 @@
                     <div class="card-content">
                         <h3 class="amber-text text-darken-4"><i class="material-icons">subject</i> Work
                             Summery</h1>
-                            <div class="card-title">Freelance Market Research</div>
-                            <p> Orange Switch, 2017-2018</p>
+                            <div class="card-title">Junior Technical Consultant</div>
+                            <p>Triangulators Computing Services, 2020-present</p>
                             <p class="grey-text">
-                                Worked in Adama going to Sales points of the client and collecting overall
-                                information.
+                                Developing Modules for Odoo, performing R&D for future releases and
+                                writing automation scripts for internal use
                             </p>
                             <div class="card-title">Intern - Unity Developer</div>
                             <p>Eternal Media and Communication, 2019</p>
                             <p class="grey-text">
                                 Using Unity Game Engine to create games and content for Virtual Reality devices
                             </p>
+                            <div class="card-title">Freelance Market Research</div>
+                            <p> Orange Switch, 2017-2018</p>
+                            <p class="grey-text">
+                                Worked in Adama going to Sales points of the client and collecting overall
+                                information.
+                            </p>
                     </div>
                 </div>
                 <!-- Proffesional Skills -->
                 <div style="padding-left: 2vw">
-                    <h3 class="cyan-text text-darken-2"><i class="material-icons">work</i> Professional Skills</h3>
+                    <h3 class="cyan-text text-darken-2"><i class="material-icons">work</i> Skills</h3>
                     <div class="row white-text">
                         <div class="col l6 m6">
                             <p>Leadership</p>
-                            <p>Web Design</p>
-                            <p>HTML, CSS3 & JavaScript</p>
-                            <p>Materiallize CSS framework</p>
+                            <p>Communicaton</p>
+                            <p>Problem Solving</p>
+                            <p>Team Work</p>
                         </div>
                         <div class="col l6 m6">
-                            <p>Photography</p>
-                            <p>Chess Coaching</p>
-                            <p>Game Development (Unity)</p>
+                            <p>Unity Development</p>
+                            <p>ERP Development (Odoo)</p>
                             <p>C++ programming</p>
                         </div>
                     </div>
@@ -283,23 +288,23 @@
         </div>
     </main>
 
-    <footer>
+    <!-- <footer> -->
         <!-- Bottom Footer -->
-        <div class="footer-copyright black">
+        <!-- <div class="footer-copyright black">
             <div class="container center white-text">
                 Developed in Sep 2019 by Yohanes Fikru.
                 <a class="waves-effect waves-light btn-flat modal-trigger black" href="#dev_info">Click Here for
                     More</a>
             </div>
-        </div>
+        </div> -->
 
         <!-- Developer Modal -->
-        <div id="dev_info" class="modal bottom-sheet">
+        <!-- <div id="dev_info" class="modal bottom-sheet">
             <div class="modal-content white-text grey darken-4 center">
                 <h4>Made with: <a href="#">Materialize CSS</a></h4>
             </div>
         </div>
-    </footer>
+    </footer> -->
 
 
     <!-- js scripts -->
