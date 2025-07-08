@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Start Time": "datetime",
+    "dg-publish": "checkbox",
+    "dg-home": "checkbox",
+    "dg-enable-search: false": "checkbox",
+    "dg-show-local-graph": "checkbox",
+    "dg-enable-search": "checkbox",
+    "dg-home-link": "checkbox",
+    "dg-show-backlinks": "checkbox",
+    "dg-show-inline-title": "checkbox",
+    "dg-show-file-tree": "checkbox"
+  }
+}
