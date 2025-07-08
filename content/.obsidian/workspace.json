@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "475f1a7b0e627c1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29ef2472dfe3e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e3516d1aeae7989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efuye Gela/Saturday Recaps/Jul 5, 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jul 5, 2025"
+            }
+          },
+          {
+            "id": "a31eec00fcce786e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9a11572e30047094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Garden Alternatives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Garden Alternatives"
+            }
+          },
+          {
+            "id": "4b1a679e01a3ee64",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/jackyzha0/quartz",
+                "title": "GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "130e9eb4b216ff22",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4e19ed15007d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "034e67eb46639169",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1781bb0354860c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Efuye-Gela",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c9cf3eb01fdc4a84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "74cab44861877147",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7219e5954ebe322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a3141e3e16cad5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "36dc5b59141b2bcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73b14a7c1d3fa01c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "885d32c81805725e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20465855b7f413f8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "4b1a679e01a3ee64",
+  "lastOpenFiles": [
+    "Digital Garden Alternatives.md",
+    "Efuye Gela/Saturday Recaps/Jul 5, 2025.md",
+    "Untitled.md",
+    "Digital Garden/Home.md",
+    "Digital Garden/dg-styles.css",
+    "temp.md",
+    "repos to check.md",
+    "Efuye Gela/Saturday Recaps/Jun 28, 2025.md",
+    "Efuye Gela/Saturday Recaps/Untitled.md",
+    "_templates/Saturday Recap Session.md",
+    "Game Loop.md",
+    "Gemini API.md",
+    "GitHub Personal Access Token.md",
+    "Projects.md",
+    "Digital Garden/Garden Index.md",
+    "Digital Garden/Projects.md",
+    "_templates/digital_garden_template.md",
+    "Digital Garden/Projects/Clash of Devs.md",
+    "Digital Garden/Projects/Goteb.md",
+    "Digital Garden/Projects/Lomi.md",
+    "Tizita Kentiba.md",
+    "Digital Garden/Projects",
+    "Digital Garden/About me/Resume.md",
+    "Digital Garden/About me/My Projects.md",
+    "Digital Garden/Creator Resources/How To GROW FAST On LinkedIn.md",
+    "Digital Garden/Creator Resources",
+    "Efuye Gela/Efuye Gela Core Rocks 2.0.md",
+    "Efuye Gela/EG Sups.md",
+    "Digital Garden/_attachments/yohanes-resume.pdf",
+    "Digital Garden/About me",
+    "garden.md",
+    "Digital Garden/Test Canvas.canvas",
+    "Digital Garden/_attachments/profile.jpg",
+    "Digital Garden/_attachments/favicon-16x16.png",
+    "Digital Garden/_attachments/MajorJohnProfile.jpg",
+    "Digital Garden/_attachments",
+    "Digital Garden/Projects",
+    "Digital Garden",
+    "Clippings",
+    "_attachments/Pasted image 20250629205647.png",
+    "Finance",
+    "_attachments/ChatGPT Image Jun 29, 2025, 07_30_27 PM.png",
+    "Untitled.canvas",
+    "Major John.canvas",
+    "_attachments/Muqecha Studios Logo.jpg",
+    "_attachments/MajorJohn Logo.jpg",
+    "_attachments/Hospital Contact Info.jpg",
+    "_attachments/Game Store Contact Info.jpg",
+    "_attachments/Efuye Gela Anatomy.png"
+  ]
+}

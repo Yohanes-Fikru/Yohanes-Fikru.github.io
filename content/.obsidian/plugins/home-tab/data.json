@@ -1,0 +1,54 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "_attachments/ChatGPT Image Jun 29, 2025, 07_30_27 PM.png",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Major John",
+  "customFont": "monospaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Digital Garden Alternatives.md",
+      "timestamp": 1751727574464
+    },
+    {
+      "filepath": "Efuye Gela/Saturday Recaps/Jul 5, 2025.md",
+      "timestamp": 1751715446163
+    },
+    {
+      "filepath": "Untitled.md",
+      "timestamp": 1751715443006
+    },
+    {
+      "filepath": "Digital Garden/Home.md",
+      "timestamp": 1751703952520
+    },
+    {
+      "filepath": "temp.md",
+      "timestamp": 1751701448510
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true
+}

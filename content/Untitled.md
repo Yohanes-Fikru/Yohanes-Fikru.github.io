@@ -1,0 +1,31 @@
+Sprint #2 Jun 30 - Jul 12
+- Implement shooting with simple objects like spheres (2 days)
+	- Object pooling pattern
+- Implement game art assets like (4 days)
+	- Player model
+	- Player movement animation
+	- Player gun and gun animation
+	- Ammunition
+- Build a gun range/ tutorial level (2 days)
+	- Randomized targets
+	- Moving targets
+	- Score counter
+- Enemy (4 days)
+	- Controller
+		- Animation states
+			- Running
+			- Shooting
+			- Hit reaction (ASK Biruk)
+	- Enemy AI/ Behavior
+
+---
+- Implement game art assets for the player. These include
+	- Player model
+	- Player animations
+	- Player gun and gun animation
+	- Ammunition
+
+- Build a gun range/ tutorial level. This level includes
+	- Static targets for the player to shoot
+	- Moving targets for the player to shoot
+	- Score counter
